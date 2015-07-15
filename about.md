@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Am Oliver Ochieng, a full stack JavaScript Developer from Nairobi, Kenya.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Comming Soon...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vinochieng@gmail.com](mailto:vinochieng@gmail.com)
