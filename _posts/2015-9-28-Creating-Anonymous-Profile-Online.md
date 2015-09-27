@@ -18,4 +18,13 @@ With anonymous email that doest link to you , you have a headstart.
 ### Use a public internet connection
 
 Assume you are an activist , you need to cover your tracks. Publishing information online from your place of work or using your home internet is a big gumble, your Ip address will always link back to you. To be safe use cyber cafe or public internet. Rember if you form a predictable pattern online you might be in trouble.
+
 In addition to that, there are some softare tools that can make you more anonymous. A good software that I would recommend is [TOR](https://www.torproject.org/). Now this guardian angel will create a little heaven for you online .All your internet request will be anonymous and encrypted.
+
+One thing that you also need to note. As you browse the internet, the are many tracking software that track your movement as you work online. You can get rid of these by installing browser plugins like **Ghostery , Adblocker** this will ensure no robot profiles you online.
+
+### The infomation we share online:
+
+Be careful on what you post. Don't make comments that can lead to you and remember if you share photos online every photo has some **Exif Data** attached to it. This data can tell when the photo was taken, the location and other details jeopardizing your concealed identity. Some of this data you can scrap off using these tools
+[Exif Data](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+
