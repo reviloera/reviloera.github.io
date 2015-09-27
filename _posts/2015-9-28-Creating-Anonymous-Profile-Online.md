@@ -28,3 +28,7 @@ One thing that you also need to note. As you browse the internet, there are many
 Be careful on what you post. Don't make comments that can link back to you and remember if you share photos online every photo has some **Exif Data** attached to it. This data can tell when the photo was taken, the location and other details jeopardizing your concealed identity. Some of this data you can scrap off using these tools
 [Exif Data](http://www.sno.phy.queensu.ca/~phil/exiftool/)
 
+### Conclusion 
+
+As alway stay safe big brother is watching !
+
