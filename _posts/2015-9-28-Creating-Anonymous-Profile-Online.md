@@ -12,4 +12,10 @@ The flip side of the digital age is the massive automated survaillance by the go
 
 ### Avoid mainstream email accounts like gmail , yahoo e.t.c
 
-We all know that to have a social media account an email address is mandatory. A mainstream email is a big sell out. What you need to have is an **encrypted email account** , one that doest share your information with anyone and doest have robots reading your emails. I would recommend [PROTONMAIL](https://protonmail.ch/). Its supper encrypted plus the servers are in Switzerland so no gevernment can tamper with them.
+We all know that to have a social media account an email address is mandatory. A mainstream email is a big sell out. What you need to have is an **encrypted email account** , one that doest share your information with anyone and doest have robots reading your emails. I would recommend [PROTONMAIL](https://protonmail.ch/). Its supper encrypted plus the servers are in Switzerland so no gevernment can tamper with them. 
+With anonymous email that doest link to you , you have a headstart.
+
+### Use a public internet connection
+
+Assume you are an activist , you need to cover your tracks. Publishing information online from your place of work or using your home internet is a big gumble, your Ip address will always link back to you. To be safe use cyber cafe or public internet. Rember if you form a predictable pattern online you might be in trouble.
+In addition to that, there are some softare tools that can make you more anonymous. A good software that I would recommend is [TOR](https://www.torproject.org/). Now this guardian angel will create a little heaven for you online .All your internet request will be anonymous and encrypted.
