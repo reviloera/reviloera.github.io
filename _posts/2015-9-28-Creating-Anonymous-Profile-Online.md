@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating Anonymous Profile Online 
+comments: true
 ---
 >**Disclaimer** I accept no responsibility for any outcome of following this advice
 
