@@ -32,5 +32,5 @@ Be careful on what you post. Don't make comments that can link back to you and r
 
 As always stay safe big brother is watching !
 
-{% include disqus.html %}
+
 
